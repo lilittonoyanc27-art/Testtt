@@ -1,0 +1,6 @@
+{
+  "name": "Ispaneren A1",
+  "description": "Interactive Spanish learning games for Armenian speakers (Level A1), covering numbers, accentuation, months, days, clock time, and core vocabulary.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
